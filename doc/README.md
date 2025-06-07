@@ -51,21 +51,6 @@ streamlit run app.py
 
 ## Project Structure
 ```bash
-FACE RECOGNITION/
-├── 📁 doc/
-│   └── README.md
-├── 📁 src/
-│   ├── 📁 __pycache__/
-│   ├── 📁 .streamlit/
-│   ├── 📁 assets/
-│   ├── 🐍 app.py
-│   ├── 🐍 eigenface.py
-│   └── 🐍 main.py
-├── 📁 test/
-│   ├── Chris Pratt14_759.jpg
-│   ├── Chris Pratt206_806.jpg
-│   └── Chris Pratt206_809.jpg
-└── 📄 requirements.txt
 ```
 
 ## Credits
