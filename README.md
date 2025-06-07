@@ -16,7 +16,7 @@ Pengenalan wajah (Face Recognition) adalah teknologi biometrik yang dapat diguna
 Terdapat berbagai teknik untuk memeriksa citra wajah, seperti jarak Euclidean, cosine similarity, principal component analysis (PCA), serta Eigenface. Pada tugas ini, akan dibuat sebuah program pengenalan wajah menggunakan metode Eigenface.
 
 ## Tampilan Program
-![Main View](https://raw.githubusercontent.com/Adityamulyaf/PBL-1-Aljabar-Linear-2025/main/src/assets/tampilanProgram.png)
+![Main View](https://raw.githubusercontent.com/Adityamulyaf/PBL-1-Aljabar-Linear-2025/main/Face%20Recognition/src/assets/tampilanProgram.png)
 
 ## How To Run
 1. Pastikan semua dependencies sudah terinstall:
